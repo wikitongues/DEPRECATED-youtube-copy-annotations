@@ -1,3 +1,5 @@
+# Moved to [Utilities](https://github.com/wikitongues/utilities)
+
 # youtube-copy-annotations
 
 > Copy YouTube annotations like a pro!
