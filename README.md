@@ -1,6 +1,6 @@
 # Moved to [Utilities](https://github.com/wikitongues/utilities)
 
-# youtube-copy-annotations
+### youtube-copy-annotations
 
 > Copy YouTube annotations like a pro!
 
@@ -10,7 +10,7 @@ Post feedback and comments [on the blog post](https://stefansundin.com/blog/277)
 
 You can also [install the userscript](https://github.com/stefansundin/youtube-copy-annotations/raw/gh-pages/youtube_auth_token.user.js).
 
-# Reporting bugs
+### Reporting bugs
 
 Please provide enough information so that I can reproduce whatever you are doing. This means:
 
